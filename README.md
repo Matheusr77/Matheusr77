@@ -4,6 +4,7 @@ Tenho 18 anos, e atualmente sou estudante do curso de Engenharia da Computação
 
 #### Tecnologias que eu uso
 <div style="display: inline_block"><br/>
+  <img align="center" alt="VSCode" height="30" width="40" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="C" height="30" width="40" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 

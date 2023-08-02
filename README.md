@@ -9,6 +9,10 @@ Tenho 18 anos, e atualmente sou estudante do curso de Engenharia da Computação
 </div>
 
 #### Contato
+
+<div> 
 <a href = "mailto:matheusrib0707@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ribeiro-de-oliveira-5a6785269/?originalSubdomain=br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusr_77/)
+<a href="https://www.linkedin.com/in/matheus-ribeiro-de-oliveira-5a6785269/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/matheusr_77/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>

@@ -24,5 +24,3 @@ Tenho 18 anos, e atualmente sou estudante do curso de Engenharia da Computação
 [![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusr77&show_icons=true&theme=algolia)](https://github.com/Matheusr77)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusr77&langs_count=8&show_icons=true&theme=algolia)
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Matheusr77/count.svg" /></p>
-

@@ -1,5 +1,5 @@
 <img align="right" height="810em" width="420em"              src="https://raw.githubusercontent.com/gist/Matheusr77/83542ccb757849f7ef85f0b802f685b2/raw/4515d50319b619d3cd38f3103c5004d7ca4084c7/GitHubCard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Ribeiro</h1>
+<h1 align="left">Hi, I'm Matheus Ribeiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheusr77&color=yellow" alt="Profile views" /> </p>
 
 I'm 18 years old, and I'm currently a student of Computer Engineering at the State University of Minas Gerais - UEMG.

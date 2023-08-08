@@ -14,8 +14,8 @@ I'm 18 years old, and I'm currently a student of Computer Engineering at the Sta
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=Matheusr77&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusr77&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="410em" src="https://github-readme-stats.vercel.app/api?username=Matheusr77&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusr77&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
 ## Contact

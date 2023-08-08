@@ -1,4 +1,4 @@
-<img align="right" width="420em" height="810em" src="https://raw.githubusercontent.com/gist/Matheusr77/83542ccb757849f7ef85f0b802f685b2/raw/4515d50319b619d3cd38f3103c5004d7ca4084c7/GitHubCard.svg"/>
+<img align="right" height="810em" width="420em"              src="https://raw.githubusercontent.com/gist/Matheusr77/83542ccb757849f7ef85f0b802f685b2/raw/4515d50319b619d3cd38f3103c5004d7ca4084c7/GitHubCard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Ribeiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheusr77&color=yellow" alt="Profile views" /> </p>
 
@@ -6,10 +6,13 @@ I'm 18 years old, and I'm currently a student of Computer Engineering at the Sta
 
 ## 🛠 &nbsp;Technologies and Tools
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<div style="display: inline_block"><br/>
+  <img alt="VSCode" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img alt="C" height="40" width="50" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="GitHub" height="40" width="50" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img alt="Git" height="40" width="50" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+          
+</div>
 
 ## ⚙️ &nbsp;GitHub Analytics
 

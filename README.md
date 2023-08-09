@@ -6,6 +6,7 @@
 
 <div style="display: inline_block"><br/>
   <img alt="C" height="40" width="50" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Python" height="40" width="50" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img alt="VSCode" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img alt="GitHub" height="40" width="50" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img alt="Git" height="40" width="50" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />

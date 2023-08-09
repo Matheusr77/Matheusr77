@@ -2,8 +2,6 @@
 <h1 align="left">Hi, I'm Matheus Ribeiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheusr77&color=yellow" alt="Profile views" /> </p>
 
-I'm 18 years old, and I'm currently a student of Computer Engineering at the State University of Minas Gerais - UEMG.
-
 ## 🛠 &nbsp;Technologies and Tools
 
 <div style="display: inline_block"><br/>

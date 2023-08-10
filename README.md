@@ -16,8 +16,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=Matheusr77&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusr77&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheusr77&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark" />
+<img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheusr77&theme=vision-friendly-dark"/>
 </p>
 
 ## Contact

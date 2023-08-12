@@ -1,6 +1,7 @@
-<img align="right" height="810em" width="420em"              src="https://raw.githubusercontent.com/gist/Matheusr77/83542ccb757849f7ef85f0b802f685b2/raw/4515d50319b619d3cd38f3103c5004d7ca4084c7/GitHubCard.svg"/>
-<h1 align="left">Hi, I'm Matheus Ribeiro</h1>
+<img align="center"           src="https://raw.githubusercontent.com/gist/Matheusr77/f3bc77bc000039aa4e3731e66fbc8e36/raw/07edf91b66fe8bebe56b175876485e6ffb28d313/GitHub.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheusr77&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Hi, I'm Matheus Ribeiro </h1>
+<h4> I'm 18 years old, and I'm currently a student of Computer Engineering at the State University of Minas Gerais - UEMG. </h2>
 
 ## 🛠 &nbsp;Technologies and Tools
 

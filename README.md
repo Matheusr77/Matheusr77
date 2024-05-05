@@ -21,8 +21,8 @@
 
 <div>
   <a href="[https://github.com/Matheusr77](https://github.com/Matheusr77)"> 
-   <img width="445em" src="https://github-readme-stats.vercel.app/api?username=Matheusr77&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusr77&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+   <img width="445em" src="https://github-readme-stats.vercel.app/api?username=Matheusr77&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusr77&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
 

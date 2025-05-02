@@ -26,14 +26,19 @@
 
 ---
 
-## ⚙️ &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Matheusr77&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusr77&layout=compact&langs_count=10&theme=algolia" />
-</div>
+<table>
+  <tr>
+    <td valign="middle" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Matheusr77&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusr77&layout=compact&langs_count=16&theme=algolia"/>
+    </td>
+  </tr>
+</table>
 
----
 
 ## 📫 &nbsp;Contact
 

@@ -39,6 +39,7 @@
   </tr>
 </table>
 
+---
 
 ## 📫 &nbsp;Contact
 

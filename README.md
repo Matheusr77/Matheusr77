@@ -4,9 +4,9 @@
   🧑‍💻 20 anos • Estudante de Engenharia da Computação na Universidade do Estado de Minas Gerais (UEMG)
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Matheusr77&color=yellow" alt="Profile views" />
-</p>
+</p> -->
 
 ---
 
@@ -45,10 +45,10 @@
 <p align="center">
   <a href="mailto:matheusrib0707@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!--<a href="https://www.linkedin.com/in/matheus-ribeiro-de-oliveira-5a6785269" target="_blank">
+    
+    <a href="https://www.linkedin.com/in/matheus-ribeiro-de-oliveira-5a6785269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
+  
 </p>
 
 ---

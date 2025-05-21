@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matheus Ribeiro 👋</h1>
 
 <p align="center"> 
-  🧑‍💻 20 anos • Estudante de Engenharia da Computação na Universidade do Estado de Minas Gerais (UEMG)
+  🧑‍💻 20 years old • Computer Engineering student at the State University of Minas Gerais (UEMG)
 </p>
 
 <!--<p align="center">

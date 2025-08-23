@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matheus Ribeiro 👋</h1>
 
 <p align="center"> 
-  🧑‍💻 20 years old • Computer Engineering student at the State University of Minas Gerais (UEMG)
+  🧑‍💻 Support and Implementation Analyst | Computer Engineering student at the State University of Minas Gerais (UEMG)
 </p>
 
 <!--<p align="center">
@@ -13,13 +13,13 @@
 ## 🛠️ &nbsp;Technologies and Tools
 
 <div align="center">
-  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img alt="C" height="50" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />
+  <img alt="C++" height="50" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />
+  <img alt="Python" height="50" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
+  <img alt="Java" height="50" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
+  <img alt="MySQL" height="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
+  <img alt="GitHub" height="50" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" />
+  <img alt="Git" height="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
 </div>
 
 

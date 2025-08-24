@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Matheus Ribeiro 👋</h1>
+<h1 align="center">Hi, I'm Matheus 👋</h1>
 
 <p align="center"> 
   🧑‍💻 Support and Implementation Analyst | Computer Engineering student at the State University of Minas Gerais (UEMG)

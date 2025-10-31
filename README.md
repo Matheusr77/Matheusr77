@@ -47,10 +47,9 @@
 <p align="center">
   <a href="mailto:matheusrib0707@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    
-  <!--<a href="https://www.linkedin.com/in/matheus-ribeiro-de-oliveira-5a6785269" target="_blank">
+   <a href="https://www.linkedin.com/in/matheus-ribeiro-de-oliveira-5a6785269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  -->
+
 </p>
 
 ---

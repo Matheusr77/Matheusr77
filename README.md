@@ -21,7 +21,6 @@
   <img alt="GitHub" height="50" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" />
   <img alt="Git" height="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
   <img src="img/sqlserver.png" alt="SQL Server" width="55" />
-  <img src="img/mobaxterm.png" alt="MobaXterm" width="55" />
 </div>
 
 
